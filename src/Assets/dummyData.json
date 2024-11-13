@@ -1,0 +1,56 @@
+[
+    {
+        "country":"Greece",
+        "region": "Greece",
+        "category":"Residential",
+        "totalPrice": 1000,
+        "sizeM2":100,
+        "District":"Louvre",
+        "saleType":"for Rent",
+        "additionalCharges":1000,
+        "deliveryDate":"",
+        "kind":"Villa",
+        "type":"simplex",
+        "style":"Modern",
+        "floorNb":4,
+        "bedRoom":0,
+        "livingRoom":0,
+        "bathRoom":0,
+        "nbParking":0,
+        "furnished": true,
+        "propertyDescription":"loermipsum12345",
+        "propertyImages":[
+            "https://www.metrekarre.com/uploads/photos/2241-1.jpg",
+            "https://www.metrekarre.com/uploads/photos/2241-1.jpg"
+        ]
+    },
+    {
+        "firstName":"omar",
+        "lastName":"naous",
+        "phone":123,
+        "email":"",
+        "country":"Greece",
+        "region": "Greece",
+        "category":"Residential",
+        "totalPrice": 1000,
+        "sizeM2":100,
+        "District":"Louvre",
+        "saleType":"for Rent",
+        "additionalCharges":1000,
+        "deliveryDate":"",
+        "kind":"Villa",
+        "type":"simplex",
+        "style":"Modern",
+        "floorNb":4,
+        "bedRoom":0,
+        "livingRoom":0,
+        "bathRoom":0,
+        "nbParking":0,
+        "furnished": true,
+        "propertyDescription":"loermipsum12345",
+        "propertyImages":[
+            "https://www.metrekarre.com/uploads/photos/2241-1.jpg",
+            "https://www.metrekarre.com/uploads/photos/2241-1.jpg"
+        ]
+    }
+]

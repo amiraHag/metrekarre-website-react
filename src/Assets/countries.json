@@ -1,0 +1,1880 @@
+[
+  {
+    "countryName": "Country",
+    "countryShortCode": "country",
+    "regions": [
+      {
+        "name": "region",
+        "shortCode": "region"
+      }
+    ]
+  },
+  {
+    "countryName": "Lebanon",
+    "countryShortCode": "LB",
+    "regions": [
+      {
+        "name": "Aakkâr",
+        "shortCode": "AK"
+      },
+      {
+        "name": "Baalbelk-Hermel",
+        "shortCode": "BH"
+      },
+      {
+        "name": "Béqaa",
+        "shortCode": "BI"
+      },
+      {
+        "name": "Beirut",
+        "shortCode": "BA"
+      },
+      {
+        "name": "Liban-Nord",
+        "shortCode": "AS"
+      },
+      {
+        "name": "Liban-Sud",
+        "shortCode": "JA"
+      },
+      {
+        "name": "Mont-Liban",
+        "shortCode": "JL"
+      },
+      {
+        "name": "Nabatîyé",
+        "shortCode": "NA"
+      }
+    ]
+  },
+  {
+    "countryName": "Cyprus",
+    "countryShortCode": "CY",
+    "regions": [
+      {
+        "name": "Ammochostos",
+        "shortCode": "04"
+      },
+      {
+        "name": "Keryneia",
+        "shortCode": "06"
+      },
+      {
+        "name": "Larnaka",
+        "shortCode": "03"
+      },
+      {
+        "name": "Lefkosia",
+        "shortCode": "01"
+      },
+      {
+        "name": "Lemesos",
+        "shortCode": "02"
+      },
+      {
+        "name": "Pafos",
+        "shortCode": "05"
+      }
+    ]
+  },
+  {
+    "countryName": "Greece",
+    "countryShortCode": "GR",
+    "regions": [
+      {
+        "name": "Anatolikí Makedonía kai Thráki",
+        "shortCode": "A"
+      },
+      {
+        "name": "Attikḯ",
+        "shortCode": "I"
+      },
+      {
+        "name": "Dytikí Elláda",
+        "shortCode": "G"
+      },
+      {
+        "name": "Dytikí Makedonía",
+        "shortCode": "C"
+      },
+      {
+        "name": "Ionía Nísia",
+        "shortCode": "F"
+      },
+      {
+        "name": "Kentrikí Makedonía",
+        "shortCode": "B"
+      },
+      {
+        "name": "Krítí",
+        "shortCode": "M"
+      },
+      {
+        "name": "Notío Aigaío",
+        "shortCode": "L"
+      },
+      {
+        "name": "Peloponnísos",
+        "shortCode": "J"
+      },
+      {
+        "name": "Stereá Elláda",
+        "shortCode": "H"
+      },
+      {
+        "name": "Thessalía",
+        "shortCode": "E"
+      },
+      {
+        "name": "Voreío Aigaío",
+        "shortCode": "K"
+      },
+      {
+        "name": "Ípeiros",
+        "shortCode": "D"
+      },
+      {
+        "name": "Ágion Óros",
+        "shortCode": "69"
+      }
+    ]
+  },
+  {
+    "countryName": "France",
+    "countryShortCode": "FR",
+    "regions": [
+      {
+        "name": "Auvergne-Rhône-Alpes",
+        "shortCode": "ARA"
+      },
+      {
+        "name": "Bourgogne-Franche-Comté",
+        "shortCode": "BFC"
+      },
+      {
+        "name": "Bretagne",
+        "shortCode": "BRE"
+      },
+      {
+        "name": "Centre-Val de Loire",
+        "shortCode": "CVL"
+      },
+      {
+        "name": "Corse",
+        "shortCode": "COR"
+      },
+      {
+        "name": "Grand Est",
+        "shortCode": "GES"
+      },
+      {
+        "name": "Hauts-de-France",
+        "shortCode": "HDF"
+      },
+      {
+        "name": "Île-de-France",
+        "shortCode": "IDF"
+      },
+      {
+        "name": "Normandie",
+        "shortCode": "NOR"
+      },
+      {
+        "name": "Nouvelle-Aquitaine",
+        "shortCode": "NAQ"
+      },
+      {
+        "name": "Occitanie",
+        "shortCode": "OCC"
+      },
+      {
+        "name": "Pays de la Loire",
+        "shortCode": "PDL"
+      },
+      {
+        "name": "Provence-Alpes-Cote d'Azur",
+        "shortCode": "PAC"
+      },
+      {
+        "name": "Clipperton",
+        "shortCode": "CP"
+      },
+      {
+        "name": "Guadeloupe",
+        "shortCode": "GP"
+      },
+      {
+        "name": "Guyane",
+        "shortCode": "GF"
+      },
+      {
+        "name": "Martinique",
+        "shortCode": "MQ"
+      },
+      {
+        "name": "Mayotte",
+        "shortCode": "YT"
+      },
+      {
+        "name": "Nouvelle-Calédonie",
+        "shortCode": "NC"
+      },
+      {
+        "name": "Polynésie",
+        "shortCode": "PF"
+      },
+      {
+        "name": "Saint-Pierre-et-Miquelon",
+        "shortCode": "PM"
+      },
+      {
+        "name": "Saint Barthélemy",
+        "shortCode": "BL"
+      },
+      {
+        "name": "Saint Martin",
+        "shortCode": "MF"
+      },
+      {
+        "name": "Réunion",
+        "shortCode": "RE"
+      },
+      {
+        "name": "Terres Australes Françaises",
+        "shortCode": "TF"
+      },
+      {
+        "name": "Wallis-et-Futuna",
+        "shortCode": "WF"
+      }
+    ]
+  },
+  {
+    "countryName": "Italy",
+    "countryShortCode": "IT",
+    "regions": [
+      {
+        "name": "Abruzzo",
+        "shortCode": "65"
+      },
+      {
+        "name": "Basilicata",
+        "shortCode": "77"
+      },
+      {
+        "name": "Calabria",
+        "shortCode": "78"
+      },
+      {
+        "name": "Campania",
+        "shortCode": "72"
+      },
+      {
+        "name": "Emilia-Romagna",
+        "shortCode": "45"
+      },
+      {
+        "name": "Friuli-Venezia Giulia",
+        "shortCode": "36"
+      },
+      {
+        "name": "Lazio",
+        "shortCode": "62"
+      },
+      {
+        "name": "Liguria",
+        "shortCode": "42"
+      },
+      {
+        "name": "Lombardia",
+        "shortCode": "25"
+      },
+      {
+        "name": "Marche",
+        "shortCode": "57"
+      },
+      {
+        "name": "Molise",
+        "shortCode": "67"
+      },
+      {
+        "name": "Piemonte",
+        "shortCode": "21"
+      },
+      {
+        "name": "Puglia",
+        "shortCode": "75"
+      },
+      {
+        "name": "Sardegna",
+        "shortCode": "88"
+      },
+      {
+        "name": "Sicilia",
+        "shortCode": "82"
+      },
+      {
+        "name": "Toscana",
+        "shortCode": "52"
+      },
+      {
+        "name": "Trentino-Alto Adige",
+        "shortCode": "32"
+      },
+      {
+        "name": "Umbria",
+        "shortCode": "55"
+      },
+      {
+        "name": "Valle d'Aosta",
+        "shortCode": "23"
+      },
+      {
+        "name": "Veneto",
+        "shortCode": "34"
+      }
+    ]
+  },
+  {
+    "countryName": "Croatia",
+    "countryShortCode": "HR",
+    "regions": [
+      {
+        "name": "Bjelovarsko-bilogorska županija",
+        "shortCode": "07"
+      },
+      {
+        "name": "Brodsko-posavska županija",
+        "shortCode": "12"
+      },
+      {
+        "name": "Dubrovačko-neretvanska županija",
+        "shortCode": "19"
+      },
+      {
+        "name": "Grad Zagreb",
+        "shortCode": "21"
+      },
+      {
+        "name": "Istarska županija",
+        "shortCode": "18"
+      },
+      {
+        "name": "Karlovačka županija",
+        "shortCode": "04"
+      },
+      {
+        "name": "Koprivničko-križevačka županija",
+        "shortCode": "06"
+      },
+      {
+        "name": "Krapinsko-zagorska županija",
+        "shortCode": "02"
+      },
+      {
+        "name": "Ličko-senjska županija",
+        "shortCode": "09"
+      },
+      {
+        "name": "Međimurska županija",
+        "shortCode": "20"
+      },
+      {
+        "name": "Osječko-baranjska županija",
+        "shortCode": "14"
+      },
+      {
+        "name": "Požeško-slavonska županija",
+        "shortCode": "11"
+      },
+      {
+        "name": "Primorsko-goranska županija",
+        "shortCode": "08"
+      },
+      {
+        "name": "Sisačko-moslavačka županija",
+        "shortCode": "03"
+      },
+      {
+        "name": "Splitsko-dalmatinska županija",
+        "shortCode": "17"
+      },
+      {
+        "name": "Šibensko-kninska županija",
+        "shortCode": "15"
+      },
+      {
+        "name": "Varaždinska županija",
+        "shortCode": "05"
+      },
+      {
+        "name": "Virovitičko-podravska županija",
+        "shortCode": "10"
+      },
+      {
+        "name": "Vukovarsko-srijemska županija",
+        "shortCode": "16"
+      },
+      {
+        "name": "Zadarska županija",
+        "shortCode": "13"
+      },
+      {
+        "name": "Zagrebačka županija",
+        "shortCode": "01"
+      }
+    ]
+  },
+  {
+    "countryName": "Spain",
+    "countryShortCode": "ES",
+    "regions": [
+      {
+        "name": "Albacete",
+        "shortCode": "AB"
+      },
+      {
+        "name": "Alicante",
+        "shortCode": "A"
+      },
+      {
+        "name": "Almería",
+        "shortCode": "AL"
+      },
+      {
+        "name": "Araba/Álava",
+        "shortCode": "VI"
+      },
+      {
+        "name": "Asturias",
+        "shortCode": "O"
+      },
+      {
+        "name": "Ávila",
+        "shortCode": "AV"
+      },
+      {
+        "name": "Badajoz",
+        "shortCode": "BA"
+      },
+      {
+        "name": "Barcelona",
+        "shortCode": "B"
+      },
+      {
+        "name": "Bizkaia",
+        "shortCode": "BI"
+      },
+      {
+        "name": "Burgos",
+        "shortCode": "BU"
+      },
+      {
+        "name": "Cáceres",
+        "shortCode": "CC"
+      },
+      {
+        "name": "Cádiz",
+        "shortCode": "CA"
+      },
+      {
+        "name": "Cantabria",
+        "shortCode": "S"
+      },
+      {
+        "name": "Castellón/Castelló",
+        "shortCode": "CS"
+      },
+      {
+        "name": "Ceuta",
+        "shortCode": "CE"
+      },
+      {
+        "name": "Ciudad Real",
+        "shortCode": "CR"
+      },
+      {
+        "name": "Córdoba",
+        "shortCode": "CO"
+      },
+      {
+        "name": "A Coruña",
+        "shortCode": "C"
+      },
+      {
+        "name": "Cuenca",
+        "shortCode": "CU"
+      },
+      {
+        "name": "Gipuzkoa",
+        "shortCode": "SS"
+      },
+      {
+        "name": "Girona",
+        "shortCode": "GI"
+      },
+      {
+        "name": "Granada",
+        "shortCode": "GR"
+      },
+      {
+        "name": "Guadalajara",
+        "shortCode": "GU"
+      },
+      {
+        "name": "Huelva",
+        "shortCode": "H"
+      },
+      {
+        "name": "Huesca",
+        "shortCode": "HU"
+      },
+      {
+        "name": "Illes Balears",
+        "shortCode": "PM"
+      },
+      {
+        "name": "Jaén",
+        "shortCode": "J"
+      },
+      {
+        "name": "León",
+        "shortCode": "LE"
+      },
+      {
+        "name": "Lleida",
+        "shortCode": "L"
+      },
+      {
+        "name": "Lugo",
+        "shortCode": "LU"
+      },
+      {
+        "name": "Madrid",
+        "shortCode": "M"
+      },
+      {
+        "name": "Málaga",
+        "shortCode": "MA"
+      },
+      {
+        "name": "Melilla",
+        "shortCode": "ML"
+      },
+      {
+        "name": "Murcia",
+        "shortCode": "MU"
+      },
+      {
+        "name": "Navarra/Nafarroa",
+        "shortCode": "NA"
+      },
+      {
+        "name": "Ourense",
+        "shortCode": "OR"
+      },
+      {
+        "name": "Palencia",
+        "shortCode": "P"
+      },
+      {
+        "name": "Las Palmas",
+        "shortCode": "GC"
+      },
+      {
+        "name": "Pontevedra",
+        "shortCode": "PO"
+      },
+      {
+        "name": "La Rioja",
+        "shortCode": "LO"
+      },
+      {
+        "name": "Salamanca",
+        "shortCode": "SA"
+      },
+      {
+        "name": "Santa Cruz de Tenerife",
+        "shortCode": "TF"
+      },
+      {
+        "name": "Segovia",
+        "shortCode": "SG"
+      },
+      {
+        "name": "Sevilla",
+        "shortCode": "SE"
+      },
+      {
+        "name": "Soria",
+        "shortCode": "SO"
+      },
+      {
+        "name": "Tarragona",
+        "shortCode": "T"
+      },
+      {
+        "name": "Teruel",
+        "shortCode": "TE"
+      },
+      {
+        "name": "Toledo",
+        "shortCode": "TO"
+      },
+      {
+        "name": "Valencia/València",
+        "shortCode": "V"
+      },
+      {
+        "name": "Valladolid",
+        "shortCode": "VA"
+      },
+      {
+        "name": "Zamora",
+        "shortCode": "ZA"
+      },
+      {
+        "name": "Zaragoza",
+        "shortCode": "Z"
+      }
+    ]
+  },
+  {
+    "countryName": "Turkey",
+    "countryShortCode": "TR",
+    "regions": [
+      {
+        "name": "Adana",
+        "shortCode": "01"
+      },
+      {
+        "name": "Adiyaman",
+        "shortCode": "02"
+      },
+      {
+        "name": "Afyonkarahisar",
+        "shortCode": "03"
+      },
+      {
+        "name": "Agri",
+        "shortCode": "04"
+      },
+      {
+        "name": "Aksaray",
+        "shortCode": "68"
+      },
+      {
+        "name": "Amasya",
+        "shortCode": "05"
+      },
+      {
+        "name": "Ankara",
+        "shortCode": "06"
+      },
+      {
+        "name": "Antalya",
+        "shortCode": "07"
+      },
+      {
+        "name": "Ardahan",
+        "shortCode": "75"
+      },
+      {
+        "name": "Artvin",
+        "shortCode": "08"
+      },
+      {
+        "name": "Aydin",
+        "shortCode": "09"
+      },
+      {
+        "name": "Balikesir",
+        "shortCode": "10"
+      },
+      {
+        "name": "Bartin",
+        "shortCode": "74"
+      },
+      {
+        "name": "Batman",
+        "shortCode": "72"
+      },
+      {
+        "name": "Bayburt",
+        "shortCode": "69"
+      },
+      {
+        "name": "Bilecik",
+        "shortCode": "11"
+      },
+      {
+        "name": "Bingol",
+        "shortCode": "12"
+      },
+      {
+        "name": "Bitlis",
+        "shortCode": "13"
+      },
+      {
+        "name": "Bolu",
+        "shortCode": "14"
+      },
+      {
+        "name": "Burdur",
+        "shortCode": "15"
+      },
+      {
+        "name": "Bursa",
+        "shortCode": "16"
+      },
+      {
+        "name": "Canakkale",
+        "shortCode": "17"
+      },
+      {
+        "name": "Cankiri",
+        "shortCode": "18"
+      },
+      {
+        "name": "Corum",
+        "shortCode": "19"
+      },
+      {
+        "name": "Denizli",
+        "shortCode": "20"
+      },
+      {
+        "name": "Diyarbakir",
+        "shortCode": "21"
+      },
+      {
+        "name": "Duzce",
+        "shortCode": "81"
+      },
+      {
+        "name": "Edirne",
+        "shortCode": "22"
+      },
+      {
+        "name": "Elazig",
+        "shortCode": "23"
+      },
+      {
+        "name": "Erzincan",
+        "shortCode": "24"
+      },
+      {
+        "name": "Erzurum",
+        "shortCode": "25"
+      },
+      {
+        "name": "Eskisehir",
+        "shortCode": "26"
+      },
+      {
+        "name": "Gaziantep",
+        "shortCode": "27"
+      },
+      {
+        "name": "Giresun",
+        "shortCode": "28"
+      },
+      {
+        "name": "Gumushane",
+        "shortCode": "29"
+      },
+      {
+        "name": "Hakkari",
+        "shortCode": "30"
+      },
+      {
+        "name": "Hatay",
+        "shortCode": "31"
+      },
+      {
+        "name": "Igdir",
+        "shortCode": "76"
+      },
+      {
+        "name": "Isparta",
+        "shortCode": "32"
+      },
+      {
+        "name": "Istanbul",
+        "shortCode": "34"
+      },
+      {
+        "name": "Izmir",
+        "shortCode": "35"
+      },
+      {
+        "name": "Kahramanmaras",
+        "shortCode": "46"
+      },
+      {
+        "name": "Karabuk",
+        "shortCode": "78"
+      },
+      {
+        "name": "Karaman",
+        "shortCode": "70"
+      },
+      {
+        "name": "Kars",
+        "shortCode": "36"
+      },
+      {
+        "name": "Kastamonu",
+        "shortCode": "37"
+      },
+      {
+        "name": "Kayseri",
+        "shortCode": "38"
+      },
+      {
+        "name": "Kilis",
+        "shortCode": "79"
+      },
+      {
+        "name": "Kirikkale",
+        "shortCode": "71"
+      },
+      {
+        "name": "Kirklareli",
+        "shortCode": "39"
+      },
+      {
+        "name": "Kirsehir",
+        "shortCode": "40"
+      },
+      {
+        "name": "Kocaeli",
+        "shortCode": "41"
+      },
+      {
+        "name": "Konya",
+        "shortCode": "42"
+      },
+      {
+        "name": "Kutahya",
+        "shortCode": "43"
+      },
+      {
+        "name": "Malatya",
+        "shortCode": "44"
+      },
+      {
+        "name": "Manisa",
+        "shortCode": "45"
+      },
+      {
+        "name": "Mardin",
+        "shortCode": "47"
+      },
+      {
+        "name": "Mersin",
+        "shortCode": "33"
+      },
+      {
+        "name": "Mugla",
+        "shortCode": "48"
+      },
+      {
+        "name": "Mus",
+        "shortCode": "49"
+      },
+      {
+        "name": "Nevsehir",
+        "shortCode": "50"
+      },
+      {
+        "name": "Nigde",
+        "shortCode": "51"
+      },
+      {
+        "name": "Ordu",
+        "shortCode": "52"
+      },
+      {
+        "name": "Osmaniye",
+        "shortCode": "80"
+      },
+      {
+        "name": "Rize",
+        "shortCode": "53"
+      },
+      {
+        "name": "Sakarya",
+        "shortCode": "54"
+      },
+      {
+        "name": "Samsun",
+        "shortCode": "55"
+      },
+      {
+        "name": "Sanliurfa",
+        "shortCode": "63"
+      },
+      {
+        "name": "Siirt",
+        "shortCode": "56"
+      },
+      {
+        "name": "Sinop",
+        "shortCode": "57"
+      },
+      {
+        "name": "Sirnak",
+        "shortCode": "73"
+      },
+      {
+        "name": "Sivas",
+        "shortCode": "58"
+      },
+      {
+        "name": "Tekirdag",
+        "shortCode": "59"
+      },
+      {
+        "name": "Tokat",
+        "shortCode": "60"
+      },
+      {
+        "name": "Trabzon",
+        "shortCode": "61"
+      },
+      {
+        "name": "Tunceli",
+        "shortCode": "62"
+      },
+      {
+        "name": "Usak",
+        "shortCode": "64"
+      },
+      {
+        "name": "Van",
+        "shortCode": "65"
+      },
+      {
+        "name": "Yalova",
+        "shortCode": "77"
+      },
+      {
+        "name": "Yozgat",
+        "shortCode": "66"
+      },
+      {
+        "name": "Zonguldak",
+        "shortCode": "67"
+      }
+    ]
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "countryShortCode": "AE",
+    "regions": [
+      {
+        "name": "Abu Dhabi",
+        "shortCode": "AZ"
+      },
+      {
+        "name": "Ajman",
+        "shortCode": "AJ"
+      },
+      {
+        "name": "Dubai",
+        "shortCode": "DU"
+      },
+      {
+        "name": "Fujairah",
+        "shortCode": "FU"
+      },
+      {
+        "name": "Ras al Khaimah",
+        "shortCode": "RK"
+      },
+      {
+        "name": "Sharjah",
+        "shortCode": "SH"
+      },
+      {
+        "name": "Umm Al Quwain",
+        "shortCode": "UQ"
+      }
+    ]
+  },
+  {
+    "countryName": "United Kingdom",
+    "countryShortCode": "GB",
+    "regions": [
+      {
+        "name": "Aberdeen City",
+        "shortCode": "ABE"
+      },
+      {
+        "name": "Aberdeenshire",
+        "shortCode": "ABD"
+      },
+      {
+        "name": "Angus",
+        "shortCode": "ANS"
+      },
+      {
+        "name": "Antrim and Newtownabbey",
+        "shortCode": "ANN"
+      },
+      {
+        "name": "Ards and North Down",
+        "shortCode": "AND"
+      },
+      {
+        "name": "Argyll and Bute",
+        "shortCode": "AGB"
+      },
+      {
+        "name": "Armagh City, Banbridge and Craigavon",
+        "shortCode": "ABC"
+      },
+      {
+        "name": "Barking and Dagenham",
+        "shortCode": "BDG"
+      },
+      {
+        "name": "Barnet",
+        "shortCode": "BNE"
+      },
+      {
+        "name": "Barnsley",
+        "shortCode": "BNS"
+      },
+      {
+        "name": "Bath and North East Somerset",
+        "shortCode": "BAS"
+      },
+      {
+        "name": "Bedford",
+        "shortCode": "BDF"
+      },
+      {
+        "name": "Belfast City",
+        "shortCode": "BFS"
+      },
+      {
+        "name": "Berkshire",
+        "shortCode": "BRK"
+      },
+      {
+        "name": "Bexley",
+        "shortCode": "BEX"
+      },
+      {
+        "name": "Birmingham",
+        "shortCode": "BIR"
+      },
+      {
+        "name": "Blackburn with Darwen",
+        "shortCode": "BBD"
+      },
+      {
+        "name": "Blackpool",
+        "shortCode": "BPL"
+      },
+      {
+        "name": "Blaenau Gwent",
+        "shortCode": "BGW"
+      },
+      {
+        "name": "Bolton",
+        "shortCode": "BOL"
+      },
+      {
+        "name": "Bournemouth, Christchurch and Poole",
+        "shortCode": "BCP"
+      },
+      {
+        "name": "Bracknell Forest",
+        "shortCode": "BRC"
+      },
+      {
+        "name": "Bradford",
+        "shortCode": "BRD"
+      },
+      {
+        "name": "Brent",
+        "shortCode": "BEN"
+      },
+      {
+        "name": "Bridgend",
+        "shortCode": "BGE"
+      },
+      {
+        "name": "Brighton and Hove",
+        "shortCode": "BNH"
+      },
+      {
+        "name": "Bristol, City of",
+        "shortCode": "BST"
+      },
+      {
+        "name": "Bromley",
+        "shortCode": "BRY"
+      },
+      {
+        "name": "Buckinghamshire",
+        "shortCode": "BKM"
+      },
+      {
+        "name": "Bury",
+        "shortCode": "BUR"
+      },
+      {
+        "name": "Caerphilly",
+        "shortCode": "CAY"
+      },
+      {
+        "name": "Calderdale",
+        "shortCode": "CLD"
+      },
+      {
+        "name": "Cambridgeshire",
+        "shortCode": "CAM"
+      },
+      {
+        "name": "Camden",
+        "shortCode": "CMD"
+      },
+      {
+        "name": "Cardiff",
+        "shortCode": "CRF"
+      },
+      {
+        "name": "Carmarthenshire",
+        "shortCode": "CMN"
+      },
+      {
+        "name": "Causeway Coast and Glens",
+        "shortCode": "CCG"
+      },
+      {
+        "name": "Central Bedfordshire",
+        "shortCode": "CBF"
+      },
+      {
+        "name": "Ceredigion",
+        "shortCode": "CGN"
+      },
+      {
+        "name": "Cheshire East",
+        "shortCode": "CHE"
+      },
+      {
+        "name": "Cheshire West and Chester",
+        "shortCode": "CHW"
+      },
+      {
+        "name": "Clackmannanshire",
+        "shortCode": "CLK"
+      },
+      {
+        "name": "Conwy",
+        "shortCode": "CWY"
+      },
+      {
+        "name": "Cornwall",
+        "shortCode": "CON"
+      },
+      {
+        "name": "Coventry",
+        "shortCode": "COV"
+      },
+      {
+        "name": "Croydon",
+        "shortCode": "CRY"
+      },
+      {
+        "name": "Cumbria",
+        "shortCode": "CMA"
+      },
+      {
+        "name": "Darlington",
+        "shortCode": "DAL"
+      },
+      {
+        "name": "Denbighshire",
+        "shortCode": "DEN"
+      },
+      {
+        "name": "Derby",
+        "shortCode": "DER"
+      },
+      {
+        "name": "Derbyshire",
+        "shortCode": "DBY"
+      },
+      {
+        "name": "Derry and Strabane",
+        "shortCode": "DRS"
+      },
+      {
+        "name": "Devon",
+        "shortCode": "DEV"
+      },
+      {
+        "name": "Doncaster",
+        "shortCode": "DNC"
+      },
+      {
+        "name": "Dorset",
+        "shortCode": "DOR"
+      },
+      {
+        "name": "Dudley",
+        "shortCode": "DUD"
+      },
+      {
+        "name": "Dumfries and Galloway",
+        "shortCode": "DGY"
+      },
+      {
+        "name": "Dundee City",
+        "shortCode": "DND"
+      },
+      {
+        "name": "Durham, County",
+        "shortCode": "DUR"
+      },
+      {
+        "name": "Ealing",
+        "shortCode": "EAL"
+      },
+      {
+        "name": "East Ayrshire",
+        "shortCode": "EAY"
+      },
+      {
+        "name": "East Dunbartonshire",
+        "shortCode": "EDU"
+      },
+      {
+        "name": "East Lothian",
+        "shortCode": "ELN"
+      },
+      {
+        "name": "East Renfrewshire",
+        "shortCode": "ERW"
+      },
+      {
+        "name": "East Riding of Yorkshire",
+        "shortCode": "ERY"
+      },
+      {
+        "name": "East Sussex",
+        "shortCode": "ESX"
+      },
+      {
+        "name": "Edinburgh, City of",
+        "shortCode": "EDH"
+      },
+      {
+        "name": "Eilean Siar",
+        "shortCode": "ELS"
+      },
+      {
+        "name": "Enfield",
+        "shortCode": "ENF"
+      },
+      {
+        "name": "Essex",
+        "shortCode": "ESS"
+      },
+      {
+        "name": "Falkirk",
+        "shortCode": "FAL"
+      },
+      {
+        "name": "Fermanagh and Omagh",
+        "shortCode": "FMO"
+      },
+      {
+        "name": "Fife",
+        "shortCode": "FIF"
+      },
+      {
+        "name": "Flintshire",
+        "shortCode": "FLN"
+      },
+      {
+        "name": "Gateshead",
+        "shortCode": "GAT"
+      },
+      {
+        "name": "Glasgow City",
+        "shortCode": "GLG"
+      },
+      {
+        "name": "Gloucestershire",
+        "shortCode": "GLS"
+      },
+      {
+        "name": "Greenwich",
+        "shortCode": "GRE"
+      },
+      {
+        "name": "Gwynedd",
+        "shortCode": "GWN"
+      },
+      {
+        "name": "Hackney",
+        "shortCode": "HCK"
+      },
+      {
+        "name": "Halton",
+        "shortCode": "HAL"
+      },
+      {
+        "name": "Hammersmith and Fulham",
+        "shortCode": "HMF"
+      },
+      {
+        "name": "Hampshire",
+        "shortCode": "HAM"
+      },
+      {
+        "name": "Haringey",
+        "shortCode": "HRY"
+      },
+      {
+        "name": "Harrow",
+        "shortCode": "HRW"
+      },
+      {
+        "name": "Hartlepool",
+        "shortCode": "HPL"
+      },
+      {
+        "name": "Havering",
+        "shortCode": "HAV"
+      },
+      {
+        "name": "Herefordshire",
+        "shortCode": "HEF"
+      },
+      {
+        "name": "Hertfordshire",
+        "shortCode": "HRT"
+      },
+      {
+        "name": "Highland",
+        "shortCode": "HLD"
+      },
+      {
+        "name": "Hillingdon",
+        "shortCode": "HIL"
+      },
+      {
+        "name": "Hounslow",
+        "shortCode": "HNS"
+      },
+      {
+        "name": "Inverclyde",
+        "shortCode": "IVC"
+      },
+      {
+        "name": "Isle of Anglesey",
+        "shortCode": "AGY"
+      },
+      {
+        "name": "Isle of Wight",
+        "shortCode": "IOW"
+      },
+      {
+        "name": "Isles of Scilly",
+        "shortCode": "IOS"
+      },
+      {
+        "name": "Islington",
+        "shortCode": "ISL"
+      },
+      {
+        "name": "Kensington and Chelsea",
+        "shortCode": "KEC"
+      },
+      {
+        "name": "Kent",
+        "shortCode": "KEN"
+      },
+      {
+        "name": "Kingston upon Hull",
+        "shortCode": "KHL"
+      },
+      {
+        "name": "Kingston upon Thames",
+        "shortCode": "KTT"
+      },
+      {
+        "name": "Kirklees",
+        "shortCode": "KIR"
+      },
+      {
+        "name": "Knowsley",
+        "shortCode": "KWL"
+      },
+      {
+        "name": "Lambeth",
+        "shortCode": "LBH"
+      },
+      {
+        "name": "Lancashire",
+        "shortCode": "LAN"
+      },
+      {
+        "name": "Leeds",
+        "shortCode": "LDS"
+      },
+      {
+        "name": "Leicester",
+        "shortCode": "LCE"
+      },
+      {
+        "name": "Leicestershire",
+        "shortCode": "LEC"
+      },
+      {
+        "name": "Lewisham",
+        "shortCode": "LEW"
+      },
+      {
+        "name": "Lincolnshire",
+        "shortCode": "LIN"
+      },
+      {
+        "name": "Lisburn and Castlereagh",
+        "shortCode": "LBC"
+      },
+      {
+        "name": "Liverpool",
+        "shortCode": "LIV"
+      },
+      {
+        "name": "London, City of",
+        "shortCode": "LND"
+      },
+      {
+        "name": "Luton",
+        "shortCode": "LUT"
+      },
+      {
+        "name": "Manchester",
+        "shortCode": "MAN"
+      },
+      {
+        "name": "Medway",
+        "shortCode": "MDW"
+      },
+      {
+        "name": "Merthyr Tydfil",
+        "shortCode": "MTY"
+      },
+      {
+        "name": "Merton",
+        "shortCode": "MRT"
+      },
+      {
+        "name": "Mid and East Antrim",
+        "shortCode": "MEA"
+      },
+      {
+        "name": "Mid-Ulster",
+        "shortCode": "MUL"
+      },
+      {
+        "name": "Middlesbrough",
+        "shortCode": "MDB"
+      },
+      {
+        "name": "Midlothian",
+        "shortCode": "MLN"
+      },
+      {
+        "name": "Milton Keynes",
+        "shortCode": "MIK"
+      },
+      {
+        "name": "Monmouthshire",
+        "shortCode": "MON"
+      },
+      {
+        "name": "Moray",
+        "shortCode": "MRY"
+      },
+      {
+        "name": "Neath Port Talbot",
+        "shortCode": "NTL"
+      },
+      {
+        "name": "Newcastle upon Tyne",
+        "shortCode": "NET"
+      },
+      {
+        "name": "Newham",
+        "shortCode": "NWM"
+      },
+      {
+        "name": "Newport",
+        "shortCode": "NWP"
+      },
+      {
+        "name": "Newry, Mourne and Down",
+        "shortCode": "NMD"
+      },
+      {
+        "name": "Norfolk",
+        "shortCode": "NFK"
+      },
+      {
+        "name": "North Ayrshire",
+        "shortCode": "NAY"
+      },
+      {
+        "name": "North East Lincolnshire",
+        "shortCode": "NEL"
+      },
+      {
+        "name": "North Lanarkshire",
+        "shortCode": "NLK"
+      },
+      {
+        "name": "North Lincolnshire",
+        "shortCode": "NLN"
+      },
+      {
+        "name": "North Somerset",
+        "shortCode": "NSM"
+      },
+      {
+        "name": "North Tyneside",
+        "shortCode": "NTY"
+      },
+      {
+        "name": "North Yorkshire",
+        "shortCode": "NYK"
+      },
+      {
+        "name": "Northamptonshire",
+        "shortCode": "NTH"
+      },
+      {
+        "name": "Northumberland",
+        "shortCode": "NBL"
+      },
+      {
+        "name": "Nottingham",
+        "shortCode": "NGM"
+      },
+      {
+        "name": "Nottinghamshire",
+        "shortCode": "NTT"
+      },
+      {
+        "name": "Oldham",
+        "shortCode": "OLD"
+      },
+      {
+        "name": "Orkney Islands",
+        "shortCode": "ORK"
+      },
+      {
+        "name": "Oxfordshire",
+        "shortCode": "OXF"
+      },
+      {
+        "name": "Pembrokeshire",
+        "shortCode": "PEM"
+      },
+      {
+        "name": "Perth and Kinross",
+        "shortCode": "PKN"
+      },
+      {
+        "name": "Peterborough",
+        "shortCode": "PTE"
+      },
+      {
+        "name": "Plymouth",
+        "shortCode": "PLY"
+      },
+      {
+        "name": "Portsmouth",
+        "shortCode": "POR"
+      },
+      {
+        "name": "Powys",
+        "shortCode": "POW"
+      },
+      {
+        "name": "Reading",
+        "shortCode": "RDG"
+      },
+      {
+        "name": "Redbridge",
+        "shortCode": "RDB"
+      },
+      {
+        "name": "Redcar and Cleveland",
+        "shortCode": "RCC"
+      },
+      {
+        "name": "Renfrewshire",
+        "shortCode": "RFW"
+      },
+      {
+        "name": "Rhondda Cynon Taff",
+        "shortCode": "RCT"
+      },
+      {
+        "name": "Richmond upon Thames",
+        "shortCode": "RIC"
+      },
+      {
+        "name": "Rochdale",
+        "shortCode": "RCH"
+      },
+      {
+        "name": "Rotherham",
+        "shortCode": "ROT"
+      },
+      {
+        "name": "Rutland",
+        "shortCode": "RUT"
+      },
+      {
+        "name": "Salford",
+        "shortCode": "SLF"
+      },
+      {
+        "name": "Sandwell",
+        "shortCode": "SAW"
+      },
+      {
+        "name": "Scottish Borders",
+        "shortCode": "SCB"
+      },
+      {
+        "name": "Sefton",
+        "shortCode": "SFT"
+      },
+      {
+        "name": "Sheffield",
+        "shortCode": "SHF"
+      },
+      {
+        "name": "Shetland Islands",
+        "shortCode": "ZET"
+      },
+      {
+        "name": "Shropshire",
+        "shortCode": "SHR"
+      },
+      {
+        "name": "Slough",
+        "shortCode": "SLG"
+      },
+      {
+        "name": "Solihull",
+        "shortCode": "SOL"
+      },
+      {
+        "name": "Somerset",
+        "shortCode": "SOM"
+      },
+      {
+        "name": "South Ayrshire",
+        "shortCode": "SAY"
+      },
+      {
+        "name": "South Gloucestershire",
+        "shortCode": "SGC"
+      },
+      {
+        "name": "South Lanarkshire",
+        "shortCode": "SLK"
+      },
+      {
+        "name": "South Tyneside",
+        "shortCode": "STY"
+      },
+      {
+        "name": "Southampton",
+        "shortCode": "STH"
+      },
+      {
+        "name": "Southend-on-Sea",
+        "shortCode": "SOS"
+      },
+      {
+        "name": "Southwark",
+        "shortCode": "SWK"
+      },
+      {
+        "name": "St. Helens",
+        "shortCode": "SHN"
+      },
+      {
+        "name": "Staffordshire",
+        "shortCode": "STS"
+      },
+      {
+        "name": "Stirling",
+        "shortCode": "STG"
+      },
+      {
+        "name": "Stockport",
+        "shortCode": "SKP"
+      },
+      {
+        "name": "Stockton-on-Tees",
+        "shortCode": "STT"
+      },
+      {
+        "name": "Stoke-on-Trent",
+        "shortCode": "STE"
+      },
+      {
+        "name": "Suffolk",
+        "shortCode": "SFK"
+      },
+      {
+        "name": "Sunderland",
+        "shortCode": "SND"
+      },
+      {
+        "name": "Surrey",
+        "shortCode": "SRY"
+      },
+      {
+        "name": "Sutton",
+        "shortCode": "STN"
+      },
+      {
+        "name": "Swansea",
+        "shortCode": "SWA"
+      },
+      {
+        "name": "Swindon",
+        "shortCode": "SWD"
+      },
+      {
+        "name": "Tameside",
+        "shortCode": "TAM"
+      },
+      {
+        "name": "Telford and Wrekin",
+        "shortCode": "TFW"
+      },
+      {
+        "name": "Thurrock",
+        "shortCode": "THR"
+      },
+      {
+        "name": "Torbay",
+        "shortCode": "TOB"
+      },
+      {
+        "name": "Torfaen",
+        "shortCode": "TOF"
+      },
+      {
+        "name": "Tower Hamlets",
+        "shortCode": "TWH"
+      },
+      {
+        "name": "Trafford",
+        "shortCode": "TRF"
+      },
+      {
+        "name": "Vale of Glamorgan, The",
+        "shortCode": "VGL"
+      },
+      {
+        "name": "Wakefield",
+        "shortCode": "WKF"
+      },
+      {
+        "name": "Walsall",
+        "shortCode": "WLL"
+      },
+      {
+        "name": "Waltham Forest",
+        "shortCode": "WFT"
+      },
+      {
+        "name": "Wandsworth",
+        "shortCode": "WND"
+      },
+      {
+        "name": "Warrington",
+        "shortCode": "WRT"
+      },
+      {
+        "name": "Warwickshire",
+        "shortCode": "WAR"
+      },
+      {
+        "name": "West Berkshire",
+        "shortCode": "WBK"
+      },
+      {
+        "name": "West Dunbartonshire",
+        "shortCode": "WDU"
+      },
+      {
+        "name": "West Lothian",
+        "shortCode": "WLN"
+      },
+      {
+        "name": "West Sussex",
+        "shortCode": "WSX"
+      },
+      {
+        "name": "Westminster",
+        "shortCode": "WSM"
+      },
+      {
+        "name": "Wigan",
+        "shortCode": "WGN"
+      },
+      {
+        "name": "Wiltshire",
+        "shortCode": "WIL"
+      },
+      {
+        "name": "Windsor and Maidenhead",
+        "shortCode": "WNM"
+      },
+      {
+        "name": "Wirral",
+        "shortCode": "WRL"
+      },
+      {
+        "name": "Wokingham",
+        "shortCode": "WOK"
+      },
+      {
+        "name": "Wolverhampton",
+        "shortCode": "WLV"
+      },
+      {
+        "name": "Worcestershire",
+        "shortCode": "WOR"
+      },
+      {
+        "name": "Wrexham",
+        "shortCode": "WRX"
+      },
+      {
+        "name": "York",
+        "shortCode": "YOR"
+      }
+    ]
+  }
+]

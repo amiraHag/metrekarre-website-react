@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02474ebc.css",
+    "main.js": "/static/js/main.1f58d466.js",
+    "static/media/mykonos2.jpeg": "/static/media/mykonos2.8f6058d680674cab0b02.jpeg",
+    "static/media/interior2.jpeg": "/static/media/interior2.7f5c3af27d4cce99e090.jpeg",
+    "static/media/waterf2.jpeg": "/static/media/waterf2.c807174a327ed33e5235.jpeg",
+    "static/media/Paris Vente.jpeg": "/static/media/Paris Vente.a71d2076d58730fc0925.jpeg",
+    "static/media/luxury.jpeg": "/static/media/luxury.2e538b9d8bdc9b8958ee.jpeg",
+    "static/media/Logo.jpeg": "/static/media/Logo.5a0f026698f65ef48969.jpeg",
+    "static/media/greece.jpeg": "/static/media/greece.b05a3b0cf3a44ea5a38d.jpeg",
+    "static/media/eiffel2.jpeg": "/static/media/eiffel2.e0266757b3cc20cb581a.jpeg",
+    "static/media/Beirut .jpeg": "/static/media/Beirut .673a94bdbeeef44e9bbf.jpeg",
+    "static/media/mykonosvilla.webp": "/static/media/mykonosvilla.f308a285c7e18be17930.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.4f559315892eba922197.cjs",
+    "main.02474ebc.css.map": "/static/css/main.02474ebc.css.map",
+    "main.1f58d466.js.map": "/static/js/main.1f58d466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02474ebc.css",
+    "static/js/main.1f58d466.js"
+  ]
+}

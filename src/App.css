@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'EB Garamond', serif;g
+
+    a {
+      color: inherit;
+      text-decoration: none;
+  }
+  
+    /* font-family: Lora, "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+}
+
+.slick-slider {
+  margin: 0!important;
+  padding: 0;
+}
+
+
+:root {
+  --main-color: #800000;
+  --back-color: #999999;
+  /* --back-color: #404040; */
+  --card-color: #CCCCCC;
+}
+
+body{
+  overflow-x: hidden;
+  background-color: var(--back-color);
+
+  a{
+    text-decoration: none;
+  }
+
+  li{
+    text-decoration: none;
+  }
+
+
+}
+
+.App {
+    /* font-family: sans-serif; */
+    text-align: center;
+}
+
+.ribbon {
+  top:15px;
+  position: absolute;
+  left: -40px;
+  background-color: #800000;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 20px;
+  width: 154px;
+  font-weight: bold;
+  transform: rotate(-45deg);
+  text-align: center;
+}
+button.MuiButtonBase-root.MuiButton-root.hide-arrows{
+  display:none;
+}
+.ql-editor {
+  height: 250px;
+}
+.ql-editor.ql-blank{
+  height: 450px;
+}
+input, select {
+  font-size: 14px!important;
+}
+input {
+  padding-left: 14px!important;
+}
+button {
+  font-size: 14px!important;
+}
+h2.count-property.full-width {
+  margin-bottom: 25px;
+  text-align: center;
+}
+.textfield label{
+  color: grey!important;
+    font-size: 14px!important;
+    font-family: 'EB Garamond', serif;
+}
+.textfield, .dropdown {
+  background: #fff;
+}
+.textfield input{
+  height:1em!important;
+}
+.share-buttons {
+  margin: 8px 0px;
+  display: flex;
+}
+.share-buttons button {
+  margin-left: 5px;
+}
+.search-card-home>div>div {
+  margin: auto;
+}
+.search-card-home {
+  margin-top: 0px!important;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  left: 0px;
+  right: 0px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.5)!important;
+}
+.search-card-home div {
+box-shadow: none!important;
+background-color: transparent!important;
+}
+.MuiTypography-h5 {
+  font-size: 1.2rem!important;
+  font-weight: bold!important;
+}
+.MuiTypography-h6 {
+  font-size: 1.1rem!important;
+}
+.hide_property_info {
+  display: none!important;
+}
+.show-property-info {
+  display: block;
+}
+.show-property-info.show_property_info_residential{
+display: block;
+}
+.show-property-info.hide_property_info_residential{
+  display: none!important;
+  }
+.show-property-info.show_property_info_commercial{
+  display: block;
+}
+.show-property-info.hide_property_info_commercial{
+  display: none!important;
+}
+.show-property-info.show_property_info_land{
+  display: block;
+}
+.show-property-info.hide_property_info_land{
+  display: none!important;
+}
+label.MuiInputLabel-outlined.MuiInputLabel-animated.Mui-focused {
+  display: none;
+}
+
+.MuiTextField-root legend span {
+  display: none!important;
+}
+.textfield label.MuiInputLabel-shrink{
+  display: none;
+}
+.align-right{
+  text-align: right;
+}
+.hide_highlight{
+  display: none;
+}
+.show_highlight{
+  display: block;
+}
