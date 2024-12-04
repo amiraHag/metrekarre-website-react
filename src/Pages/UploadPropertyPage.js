@@ -429,7 +429,7 @@ width: 100%;
                 </TitleWrap>
               
                 <Dropdown
-                        className="dropdown"
+                        className="dropdown text-uppercase"
                         onChange={(e) => {
                             handleInputChange(e, setSelectedCountry)
                             setCountryIndex(e.target.selectedIndex);
