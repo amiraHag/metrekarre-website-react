@@ -164,3 +164,9 @@ label.MuiInputLabel-outlined.MuiInputLabel-animated.Mui-focused {
 .show_highlight{
   display: block;
 }
+.text-uppercase, 
+.text-uppercase select,
+.text-uppercase option,
+.text-uppercase select option {
+    text-transform: uppercase;
+}
