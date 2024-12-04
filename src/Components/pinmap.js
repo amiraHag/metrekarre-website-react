@@ -103,7 +103,7 @@ const LocationSearchMap = ({handleLocation,country}) => {
         text="Locate My Property"
         onClick={() => handleSearch()}
         ></CustomButton> 
-        <div  className={`${highlight_message}`} style={{ fontWeight: 'bold', marginTop: '20px'}}>Use fingers to move map and double click on the location.</div>
+        <div  className={`${highlight_message}`} style={{ fontWeight: 'bold', marginTop: '20px'}}>Use both fingers to move map and to zoom in the location.</div>
     
           </Row>
         
