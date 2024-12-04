@@ -145,7 +145,7 @@ const fetchData = async () => {
     return `/SearchPage/${newType}/${newCountry}/${newSelectedRegion}/${newDistrict}/${newRefNumber}/${newSelectedId}/${newSelectedPriceRange}/${newCategory}/${newKeyword}`;
   }
   return (
-    <div style={{marginTop:"20px"}}>
+    <div style={{marginTop:"20px"}} className={`text-uppercase`}>
      
       <SearchCardContainer>
       <InputField
